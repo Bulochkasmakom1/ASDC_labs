@@ -52,7 +52,7 @@ public class Worker {
         this.experienceEmploy = 0;
     }
 
-    public static Worker emptyTransaction() {
+    public static Worker emptyWorker() {
         return EmptyWorker.emptyWorker;
     }
 
